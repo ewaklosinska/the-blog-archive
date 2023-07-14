@@ -1,3 +1,19 @@
+# The Blog Archive
+
+## General info
+
+An application which allows users to find an article from articles base by the title. Articles are sorted by the length of the title (descending - assuming that a longer title means a more interesting article). The app uses a public web API (https://jsonplaceholder.typicode.com/posts/).
+
+UI:
+- button which allows to swich between dark and light mode.
+- layout designed for 4 breakpoints (480px, 768px, 960px and over 960px) using media queries.
+
+## Technologies
+
+- React v.18
+- JavaScript
+- CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
